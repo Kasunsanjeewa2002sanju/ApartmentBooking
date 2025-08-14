@@ -1,12 +1,33 @@
-# React + Vite
+# Apartment Booking Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **Apartment Booking Web App** is a modern, responsive platform designed to simplify apartment reservations. Users can browse available apartments, view detailed room information, book apartments online, and access additional services with ease. The platform is optimized for both desktop and mobile devices, providing a seamless experience for guests and administrators alike.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- **Browse Apartments:** Explore a curated list of apartments with images, amenities, and location details.  
+- **Room Details:** Access detailed room descriptions, features, and availability.  
+- **Online Booking:** Reserve apartments with a secure and simple booking system.  
+- **Search & Filter:** Find apartments quickly based on location, price, and amenities.  
+- **User Reviews & Recommendations:** Read verified reviews and get suggestions for popular apartments.  
+- **Admin Dashboard:** Manage apartments, bookings, and customer requests efficiently.  
+- **Contact & Support:** Easily reach management for inquiries and support.  
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+
+---
+
+## Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, JavaScript  
+- **Backend:** Node.js / Express (optional)  
+- **Database:**  MongoDB   
+- **Authentication:** JWT Authentication  
+
+---
+
+
