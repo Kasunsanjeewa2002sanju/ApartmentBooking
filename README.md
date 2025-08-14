@@ -7,7 +7,7 @@
 The **Apartment Booking Web App** is a modern, responsive platform designed to simplify apartment reservations. Users can browse available apartments, view detailed room information, book apartments online, and access additional services with ease. The platform is optimized for both desktop and mobile devices, providing a seamless experience for guests and administrators alike.
 
 ---
-
+ 
 ## Features
 
 - **Browse Apartments:** Explore a curated list of apartments with images, amenities, and location details.  
