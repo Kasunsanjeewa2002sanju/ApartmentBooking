@@ -23,10 +23,10 @@ The **Apartment Booking Web App** is a modern, responsive platform designed to s
 
 ## Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS, JavaScript  
-- **Backend:** Node.js / Express (optional)  
-- **Database:**  MongoDB   
-- **Authentication:** JWT Authentication  
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ,  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) , ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+- **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+- **Authentication:** ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ---
 
